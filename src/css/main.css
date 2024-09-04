@@ -33,7 +33,8 @@
 
 .listProduct .item img{
     width: 90%;
-    filter: drop-shadow(0 50px 20px #0009);
+    filter: drop-shadow(0 10px 20px #0009);
+    margin-bottom: 1rem;
 }
 .listProduct{
     display: grid;
